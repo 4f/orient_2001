@@ -4,5 +4,6 @@ A:visited {COLOR:#ffffff}
 A:link {COLOR:#ffffff}
 A:active {COLOR:#EC2222}
 A:hover {TEXT-DECORATION:none;COLOR:#990000;padding-left:3px}
+A:focus {TEXT-DECORATION:none;COLOR:#00FF00;padding-left:0px}
 .t1 {font-size:15;font-weight:bold;padding-left:0px}
 .t2 {font-size:10;font-weight:normal;padding-left:9px}
