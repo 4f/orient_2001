@@ -1,0 +1,9 @@
+A {TEXT-DECORATION: none}
+A:visited {COLOR:#c1c1c1}
+A:link {COLOR:#c0c0c0}
+A:active {COLOR:#FFFF80}
+A:hover {TEXT-DECORATION:underline;COLOR:#FFFF80}
+BODY {color:rgb(255,255,255);background:url(w.gif);SCROLLBAR-FACE-COLOR:#000000;SCROLLBAR-HIGHLIGHT-COLOR:#000000;SCROLLBAR-SHADOW-COLOR:#c0c0c0;SCROLLBAR-3DLIGHT-COLOR:#c0c0c0;SCROLLBAR-ARROW-COLOR:#FFFFFF}
+.a {font-size: 16px;font-style:italic;text-indent:50px}
+.b {color:rgb(225,225,128);font-size: 20px;font-style:italic;font-weight:bold}
+.t {BORDER-BOTTOM: #000000 3px solid;BORDER-RIGHT: #000000 3px solid;font-size:15px}
